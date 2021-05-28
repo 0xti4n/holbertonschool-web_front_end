@@ -1,3 +1,45 @@
+.btn-outline-light:hover {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+btn:hover {
+    color: #212529;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #117964;
+    text-decoration: underline;
+}
+
+.btn-xl {
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
+
+.btn-outline-light {
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+a {
+    color: #78CDD2;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 .btn {
   display: inline-block;
   font-weight: 400;
