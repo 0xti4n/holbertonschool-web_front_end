@@ -269,10 +269,7 @@ a:active {
 
 .section-footer {
     padding: var(--section-footer-padding);
-}
-
-hr {
-    align-content: var(--section-footer-align);
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
