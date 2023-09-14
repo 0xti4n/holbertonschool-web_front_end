@@ -181,8 +181,8 @@ template {
 
 /*# sourceMappingURL=normalize.min.css.map */
 
-* {
-    box-sizing: content-box;
+.box {
+    box-sizing: border-box;
 }
 
 html {
