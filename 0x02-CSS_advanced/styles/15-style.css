@@ -182,7 +182,7 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 
 * {
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 html {
